@@ -1,0 +1,9 @@
+h1 {
+    border: 2px solid #000000;
+    background-color: #8dad8e;
+    color: white;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    padding: 50px;
+}
